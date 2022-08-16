@@ -1,0 +1,30 @@
+body{
+    background-color:coral;
+    text-align:center;
+    color:lightbrown;
+  }
+  img{
+    width:100px;
+    border-radius:50%;
+  }
+  hr{
+    width:100px;
+  }
+  #Lo_que_me_gusta{
+    font-size: 22px;
+  }
+  #Mis_lugares_fav{
+    font-size: 22px;
+  }
+  #messi{
+    width: 250px;
+border-radius:0%;
+  }
+  #sua{
+    width: 270px;
+    margin-right: 20px;
+   border-radius:0%; 
+  }
+  #Jugadores{
+    background-color: antiquewhite;
+  }
